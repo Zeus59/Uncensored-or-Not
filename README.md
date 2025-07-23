@@ -21,6 +21,16 @@ This repository includes extracted PAK contents so you can see exactly what the 
 - **Streamer House** - Reportable photos and objectives
 - **Valley of the Dolls** - Amos bedroom and dark room objectives
 
+### 🔐 File Verification
+
+| File | SHA256 Hash |
+|------|-------------|
+| `pakchunk97-Restoration_AIO_P.pak` | `CCA5EACD0FAB9EB1E3C3CD83356801B22DCDD0B26DFF0A955C0BA4789EA87F53` |
+
+**Verify your download:**
+```powershell
+Get-FileHash "pakchunk97-Restoration_AIO_P.pak" -Algorithm SHA256
+
 ### 🗂️ File Structure Overview
 ```
 ReadyOrNot/Content/
