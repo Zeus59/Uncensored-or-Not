@@ -30,6 +30,7 @@ This repository includes extracted PAK contents so you can see exactly what the 
 **Verify your download:**
 ```powershell
 Get-FileHash "pakchunk97-Restoration_AIO_P.pak" -Algorithm SHA256
+```
 
 ### 🗂️ File Structure Overview
 ```
