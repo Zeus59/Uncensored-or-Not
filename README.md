@@ -6,6 +6,39 @@
 
 > Experience Ready or Not as it was originally designed, without any censorship.
 
+## 🔍 What's Inside the Mod
+
+This repository includes extracted PAK contents so you can see exactly what the mod modifies. The mod touches several key areas:
+
+### 📁 Character Modifications
+- **Cybernetics Civilians & Suspects** - Enhanced character models with uncensored features
+- **Narcos Informant** - Restored original character mesh and textures
+- **Port Civilians & Slaves** - Multiple character variants with original content
+- **Gerard Scott (Ridgeline)** - Complete character restoration with textures
+
+### 🎯 Objective Restorations
+- **Meth Lab Objectives** - Incapacitated minor content restoration
+- **Streamer House** - Reportable photos and objectives
+- **Valley of the Dolls** - Amos bedroom and dark room objectives
+
+### 🗂️ File Structure Overview
+```
+ReadyOrNot/Content/
+├── Blueprints/Characters/AI/
+│   ├── Cybernetics_Civilian_V2.*
+│   └── CyberneticsSuspect_V2.*
+├── Blueprints/Objectives/
+│   ├── Meth/ (Incapacitated minor objectives)
+│   ├── Streamer/ (Photo objectives)
+│   └── Valley/ (Bedroom & dark room objectives)
+└── ReadyOrNot/Character/
+    ├── Narcos/Civilians/Informant/
+    ├── PORT/Civilians/Bodies/ & Slaves/Meshes/
+    └── RIDGELINE/Gerard/ (Complete texture set)
+```
+
+> 📋 **Transparency Note:** All mod contents are available in the `Extracted PAK` folder for full inspection and transparency.
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
