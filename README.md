@@ -169,7 +169,7 @@ For technical issues with the mod itself, refer to the original mod creator's re
 
 ## 🤝 Credits
 
-- **Original Mod Creator:** [@eman734](https://github.com/eman734)
+- **Original Mod Creator:** [@eman734](https://www.nexusmods.com/readyornot/mods/6126)
 - **Restoration Team:** Various community contributors
 - **Reupload Maintainer:** This repository
 
